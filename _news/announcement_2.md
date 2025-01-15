@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+title: Presented M.Tech. (Res) Colloquium on Thesis titled: WiROS: A QoS Software Solution for ROS2 in a WiFi Network
+date: 2022-12-21 12:00:00-0400
+inline: true
 related_posts: false
 ---
 
