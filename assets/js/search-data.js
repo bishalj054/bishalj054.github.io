@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+    },{id: "news-received-m-tech-admission-offer-from-iisc-bangalore-iit-bombay-and-iit-kgp",
+          title: 'Received M.Tech. Admission offer from IISc Bangalore, IIT Bombay and IIT-KGP.',
           description: "",
           section: "News",},{id: "news-presented-m-tech-res-colloquium-on-thesis-titled-wiros-a-qos-software-solution-for-ros2-in-a-wifi-network",
           title: 'Presented M.Tech. (Res) Colloquium on Thesis titled: WiROS: A QoS Software Solution for...',
