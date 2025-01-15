@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-joined-banyan-intelligence-as-a-5g-and-ai-engineer",
-          title: 'Joined Banyan Intelligence as a 5G and AI engineer.',
-          description: "",
-          section: "News",},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-presented-m-tech-res-colloquium-on-thesis-titled-wiros-a-qos-software-solution-for-ros2-in-a-wifi-network",
+          title: 'Presented M.Tech. (Res) Colloquium on Thesis titled: WiROS: A QoS Software Solution for...',
+          description: "",
+          section: "News",},{id: "news-joined-banyan-intelligence-as-a-5g-and-ai-engineer",
+          title: 'Joined Banyan Intelligence as a 5G and AI engineer.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
