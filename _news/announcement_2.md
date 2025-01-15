@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented M.Tech. (Res) Colloquium on Thesis titled: WiROS: A QoS Software Solution for ROS2 in a WiFi Network
+Presented M.Tech. (Res) [Colloquium](https://youtu.be/oNA-VY3fAu0?si=W2xBbEN7CYRVOiRr) on Thesis titled: WiROS: A QoS Software Solution for ROS2 in a WiFi Network
